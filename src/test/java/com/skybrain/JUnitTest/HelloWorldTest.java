@@ -10,5 +10,6 @@ public class HelloWorldTest {
     @Test
     public void testSayHelloWorld(){
         assertEquals("2",new HelloWorld().sayHelloWorld());
+        assertEquals("2",new HelloWorld().sayHelloWorld());
     }
 }
