@@ -9,6 +9,6 @@ public class TimeTest{
 	
     @Test
     public void testSayTime(){
-        assertEquals("2016-08-26",new time().sayTime());
+        assertEquals("2016-08-30",new time().sayTime());
     }
 }
